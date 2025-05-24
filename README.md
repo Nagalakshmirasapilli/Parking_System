@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Parking Slot Detection System
 
 This project provides a simple yet effective solution for detecting and classifying parking spaces as **available** or **occupied** using image processing with OpenCV.
@@ -75,3 +76,7 @@ Two output windows:
 
 
  
+=======
+# Parking_System
+"A system for parking slot detection and occupancy classification"
+>>>>>>> 6162114021b1fa2f61d14ffbba473d7ebdfe7b1a
